@@ -1,6 +1,6 @@
 Package: cohorts
 Title: Cohort Analysis Made Easy
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: 
     person(given = "Peer",
            family = "Christensen",
@@ -18,8 +18,8 @@ Depends: R (>= 2.10)
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2021-07-07 22:35:18 UTC; peerchristensen
+Packaged: 2022-05-15 21:55:11 UTC; peerchristensen
 Author: Peer Christensen [aut, cre]
 Maintainer: Peer Christensen <hr.pchristensen@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-07-08 12:00:02 UTC
+Date/Publication: 2022-05-15 22:10:05 UTC
